@@ -1,0 +1,16 @@
+E:\INTENSIVE_DEV_COURSES\reviscs\bin\Debug\net5.0\reviscs.exe
+E:\INTENSIVE_DEV_COURSES\reviscs\bin\Debug\net5.0\reviscs.deps.json
+E:\INTENSIVE_DEV_COURSES\reviscs\bin\Debug\net5.0\reviscs.runtimeconfig.json
+E:\INTENSIVE_DEV_COURSES\reviscs\bin\Debug\net5.0\reviscs.runtimeconfig.dev.json
+E:\INTENSIVE_DEV_COURSES\reviscs\bin\Debug\net5.0\reviscs.dll
+E:\INTENSIVE_DEV_COURSES\reviscs\bin\Debug\net5.0\ref\reviscs.dll
+E:\INTENSIVE_DEV_COURSES\reviscs\bin\Debug\net5.0\reviscs.pdb
+E:\INTENSIVE_DEV_COURSES\reviscs\obj\Debug\net5.0\reviscs.csprojAssemblyReference.cache
+E:\INTENSIVE_DEV_COURSES\reviscs\obj\Debug\net5.0\reviscs.GeneratedMSBuildEditorConfig.editorconfig
+E:\INTENSIVE_DEV_COURSES\reviscs\obj\Debug\net5.0\reviscs.AssemblyInfoInputs.cache
+E:\INTENSIVE_DEV_COURSES\reviscs\obj\Debug\net5.0\reviscs.AssemblyInfo.cs
+E:\INTENSIVE_DEV_COURSES\reviscs\obj\Debug\net5.0\reviscs.csproj.CoreCompileInputs.cache
+E:\INTENSIVE_DEV_COURSES\reviscs\obj\Debug\net5.0\reviscs.dll
+E:\INTENSIVE_DEV_COURSES\reviscs\obj\Debug\net5.0\ref\reviscs.dll
+E:\INTENSIVE_DEV_COURSES\reviscs\obj\Debug\net5.0\reviscs.pdb
+E:\INTENSIVE_DEV_COURSES\reviscs\obj\Debug\net5.0\reviscs.genruntimeconfig.cache
